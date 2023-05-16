@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f5e2c5;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 1em 0em;
+}
+
+.card {
+    height: 100%;
+    background-color: rgb(228, 235, 241);
+}
+
+.card-title {
+    text-transform: uppercase;
+}
+
+.list-group-item {
+    background-color: rgb(228, 235, 241);
+    font-weight: 200;
+}
